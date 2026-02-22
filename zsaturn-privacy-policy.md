@@ -1,13 +1,13 @@
-# Privacy Policy — SaturnX
+# Privacy Policy — zSaturn
 
 Last updated: 29-11-2025
 
-Welcome to SaturnX.
+Welcome to zSaturn.
 This Privacy Policy explains how our app handles your information.
 
 ## 1. Information We Collect
 
-SaturnX does not collect, store, or process any personal data from users.
+zSaturn does not collect, store, or process any personal data from users.
 
 We do not collect:
 
@@ -29,7 +29,7 @@ Any other personal information
 
 ## 2. No Third-Party Services
 
-SaturnX does not use:
+zSaturn does not use:
 
 Analytics tools
 
@@ -53,17 +53,17 @@ For details on how Apple handles payment data, see Apple’s privacy policy.
 
 ## 4. Children’s Privacy
 
-Because SaturnX collects no personal data, it is safe for use by individuals of all ages, including children.
+Because zSaturn collects no personal data, it is safe for use by individuals of all ages, including children.
 
 We do not knowingly collect information from children under 13.
 
 ## 5. Security
 
-Since SaturnX does not collect or transmit data, there is no personal information stored on our servers or transferred over the internet.
+Since zSaturn does not collect or transmit data, there is no personal information stored on our servers or transferred over the internet.
 
 ## 6. Your Rights (GDPR / EU)
 
-Even though SaturnX collects no personal data, you still have the right to contact us with any questions about privacy.
+Even though zSaturn collects no personal data, you still have the right to contact us with any questions about privacy.
 
 ## 7. Changes to This Policy
 
